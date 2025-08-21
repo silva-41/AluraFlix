@@ -3,3 +3,11 @@ body {
     background: rgb(35, 150, 35);
     margin: 0px;
 }
+ header{
+border-bottom: solid 2px rgb(172, 62, 62);
+padding: 20px;
+font-size: 32px;
+color: rgb(172, 62, 62);
+
+
+ }
